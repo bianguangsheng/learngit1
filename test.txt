@@ -1,0 +1,14 @@
+"haha"
+
+:wq
+~
+test2.txt
+>hi
+>nice to meet you
+<<EOF
+:WQ
+EOF
+
+<EOF
+<<EOF
+<<END
